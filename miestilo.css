@@ -1,0 +1,204 @@
+body {
+			margin: 0px;
+		}
+		
+		.pclase {
+			text-align: center;
+			width: 800px;
+
+		}
+
+		.bloque1 {
+			padding-top: 30px;
+			background-image: url('images/bg.jpeg');
+			height: 700px;
+			width: 100%;
+			box-sizing: border-box;
+
+
+		}
+
+		.logo1 {
+			
+			float: left;
+			
+			height: 50px;
+			width: 45%;
+			box-sizing: border-box;
+			
+		}
+
+		.barra {
+			width: 50%;
+			height: 80px;
+			float: right;
+			box-sizing: border-box;
+		}
+
+
+		ul.navbar {
+			float: right;
+			height: 100%;
+			width: 100%;
+			list-style-type: none;
+			background-color: black;
+		}
+
+		ul.navbar li {
+			float: right;
+			height: 30px;
+			
+			margin-right: 20px;
+			color: grey;
+			line-height: 50px;
+			display: inline-block;
+		}
+
+		.texto1 {
+			text-transform: uppercase;
+			width: 100%;
+			float: left;
+			text-align: center;
+			color: white;
+			margin-left: 25%;
+		}
+
+		.boton1 {
+			position: relative;
+			height: 40px;
+			width: 210px;
+			background-color: blue;
+			text-align: center;
+			border-radius: 10px;
+			float: left;
+			margin-left: 30%;
+			color: white;
+			padding-top: 25px;
+		
+		}
+
+		.boton2 {
+			height: 40px;
+			width: 140px;
+			background-color: green;
+			text-align: center;
+			float: left;
+			margin-left: 10px;
+			border-radius: 10px;
+			color: white;
+			padding-top: 25px;
+			margin-right: 100px;
+		}
+
+		.parrf1 {
+
+			color: white;
+			height: 100px;
+			width: 700px;
+			float: left;
+			text-align: center;
+			margin-top: 60px;
+			padding-left: 20%;
+
+		}
+
+		.bloque2 {
+			padding-top: 30px;
+			width: 100%;
+			height: 360px;
+			text-align: center;
+		}
+
+		.imgbloque2 {
+			margin-bottom: 0px;
+			float: center;
+			height: 100px;
+			width: 300;
+			position: relative;
+		}
+
+		.bloque3 {
+			border-top: solid 1px grey;
+			border-bottom: solid 1px grey;
+			height: 200px;
+			width: 100%;
+			background-color: #fff3f9;
+			padding: 20px;
+			text-align: center;
+
+		}
+
+		.bloque4 {
+			height: 100%;
+			height: 200px;
+
+		}
+
+		.cajatext1 {
+			position: static;
+			float: left;
+			width: 40%;
+			height: 100px;
+			border-top: 20px;
+			padding: 20px;
+			
+			text-align: center;
+			box-sizing: border-box;
+		}
+
+		.cajatext2 {
+			position: static;
+			float: left;
+			width: 60%;
+			height: 100px;
+			padding: 20px;
+			text-align: left;
+			box-sizing: border-box;
+		}
+
+		.mail {
+			float: left;
+			height: 25px;
+			width: 250px;
+			border: solid 1px grey;
+			border-radius: 10px;
+			text-align: center;
+			color: #c7ceca69;
+			padding-top: 3px;
+
+		}
+
+		.boton3 {
+			padding-top: 3px;
+			float: left;
+			height: 25px;
+			width: 90px;
+			border: solid 1px grey;
+			color: #808080;
+			margin-left: 10px;
+			border-radius: 10px;
+			text-align: center;
+
+		}
+
+		.franja {
+			width: 100%;
+			height: 80px;
+			background-color: black;
+			margin-top: 40px;
+
+
+		}
+
+		.ultimotext {
+			padding-top: 20px;
+			float: left;
+			width: auto;
+			font-weight: bold;
+			text-transform: uppercase;
+			margin-left: 100px;
+			height: 50px;
+			color: white;
+
+		}
+
